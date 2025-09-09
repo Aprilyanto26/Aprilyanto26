@@ -8,7 +8,7 @@
 <hr style="border: none; height: 4px; background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);">
 
 🌱 Saya seorang mahasiswa yang antusias mempelajari **Website, pemrograman, dan pengembangan diri**.  
-💡 Tertarik dengan **Front End, dan web development**.  
+💡 Tertarik dengan ** web development dan UI/UX**.  
 ⚡ Senang belajar hal baru, menghadapi tantangan, dan berbagi pengetahuan.  
 
 <hr style="border: none; height: 4px; background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);">
